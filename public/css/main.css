@@ -123,3 +123,12 @@ bottom: 100px
     bottom: 600px
 }
 
+/***** PHOTOS ******/
+
+.photo-home {
+    border: 2px solid white;
+    font-size: 30px;
+    position: relative;
+    bottom: 200px;
+}
+
